@@ -1,0 +1,12 @@
+[project]
+name = "palette-quantization"
+version = "0.1.0"
+description = "Quantization tool that reduces image colors using a custom palette"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "halo>=0.0.31",
+    "numpy>=2.5.1",
+    "opencv-python-headless>=5.0.0.93",
+    "scikit-image>=0.26.0",
+]
