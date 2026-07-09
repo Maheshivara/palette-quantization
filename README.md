@@ -14,7 +14,7 @@ The project supports multiple color distance algorithms, palette-based quantizat
 
 ## Example
 
-All the examples below use the same [palette](./docs/assets/palettes/canvas.png) image and the same [input](./docs/example/input/flower.jpg) image.
+All the examples below use the same [palette](./assets/palettes/canvas.png) image and the same [input](./docs/example/input/flower.jpg) image.
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
   <img src="./assets/palettes/canvas.png" alt="Palette" height="30">
