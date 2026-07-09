@@ -79,8 +79,8 @@ This palette was retired from the [fediverse canvas](https://canvasstats.com/col
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd quantization
+git clone https://github.com/Maheshivara/palette-quantization.git
+cd palette-quantization
 ```
 
 Install dependencies using uv:
