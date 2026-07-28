@@ -1,10 +1,10 @@
 import os
 
-from core.domain.palette import Palette
-from core.domain.logger import Logger
-from in_out.image.reader import read_image
 from core.domain.image import Image
+from core.domain.logger import Logger
 from core.domain.lut import Lut
+from core.domain.palette import Palette
+from in_out.image.reader import read_image
 
 VALID_IMAGE_EXT = ("png", "jpg", "webp")
 
